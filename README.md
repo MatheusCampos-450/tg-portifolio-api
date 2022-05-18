@@ -4,7 +4,7 @@
 
 ## Introdução
 
-Me chamo Matheus Amauri, tenho 20 anos e sou Desenvolvedor ReactJS Junior. Ingressante da Fatec - Professor Jessen Vidal no segundo semestre de 2019, atualmente cursando 6° periodo de de Análise e Desenvolvimento de Sistemas.
+Me chamo Matheus Amauri, tenho 20 anos e sou Desenvolvedor ReactJS Junior no time de pagamentos da [Ensinio](https://ensinio.com/). Ingressante da Fatec - Professor Jessen Vidal no segundo semestre de 2019, atualmente cursando 6° periodo de de Análise e Desenvolvimento de Sistemas.
 - [Linkedin](https://www.linkedin.com/in/matheus-campos-9b8550192/)
 
 
