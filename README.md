@@ -48,7 +48,7 @@ _Soft-ware:_
 - **Blynk:** Plataforma que oferece uma gama de ferramentas para o desenvolvimento de aplicativos com foco no IoT;
 - **Linguagem C++:** Linguagem utilizada na programação do microcontrolador.
 
-**Contribuições pessoais:*
+**Contribuições pessoais:**
 
 Minha contribuição para esse projeto partiu do auxilio na montagem do protótipo, participação no desenvolvimento da interface do sistema e elaboração da documentação do projeto.
 
