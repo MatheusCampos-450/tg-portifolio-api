@@ -64,4 +64,16 @@ Minha contribuição para esse projeto partiu do auxilio na montagem do protóti
 - Comunicação;
 - Trabalho em equipe.
 
+### Projeto 2 - 2020-1
 
+**Empresa parceira:** [SPC Brasil](https://www.spcbrasil.org.br/)
+
+**Projeto:** [UDA Brasil](https://github.com/MatheusCampos-450/SPC-projeto-integrador)
+
+**Problema:**
+
+A empresa nos apresentou um problema de escopo aberto, onde precisavamos desenvolver um produto que agregasse valor a base de dados disponibilizada.
+
+**Solução:**
+
+Entregamos uma aplicação desktop que nomeamos de UDA Brasil (User Data Analytics Brasil). O aplicativo tem como premissa análisar e  
