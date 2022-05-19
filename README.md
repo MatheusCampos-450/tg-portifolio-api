@@ -70,6 +70,9 @@ Minha contribuição para esse projeto partiu do auxilio na montagem do protóti
 
 **Projeto:** [UDA Brasil](https://github.com/MatheusCampos-450/SPC-projeto-integrador)
 
+A SPC Brasil é uma empresa de tecnologia vinculada com a CNDL (Confederação Nacional de Dirigentes Lojistas). Ela faz o armazenamento e processamento de todas as operações de crédito realizadas por empresas associadas.
+
+
 **Problema:**
 
 A empresa nos apresentou um problema de escopo aberto, onde precisavamos desenvolver um produto que agregasse valor a base de dados disponibilizada.
