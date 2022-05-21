@@ -7,10 +7,12 @@
 Me chamo Matheus Amauri, tenho 20 anos e sou Desenvolvedor ReactJS Junior no time de pagamentos da [Ensinio](https://ensinio.com/). Ingressante da Fatec - Professor Jessen Vidal no segundo semestre de 2019, atualmente cursando 6° periodo de de Análise e Desenvolvimento de Sistemas.
 - [Linkedin](https://www.linkedin.com/in/matheus-campos-9b8550192/)
 
+</br>
+</br>
 
-## Meus Projetos
+# Meus Projetos
 
-### Projeto 1 - 2019-2
+## Projeto 1 - 2019-2
 
 **Empresa parceira:** [Fatec São José dos Campos - Prof. Jessen Vidal](https://fatecsjc-prd.azurewebsites.net/)
 
@@ -53,25 +55,32 @@ _Soft-ware:_
 Minha contribuição para esse projeto partiu do auxilio na montagem do protótipo, participação no desenvolvimento da interface do sistema e elaboração da documentação do projeto.
 
 **Hard-skills:**
-- Blynk: Sei fazer com ajuda;
-- Linguagem C++: Sei fazer com ajuda;
-- Programação em blocos: Sei fazer com autonomia;
-- Documentação do projeto: Sei fazer com autonomia;
-- Montagem do protótipo e circuito eletrônico: Sei fazer com autonomia.
+- **Blynk:** Sei fazer com ajuda;
+- **Linguagem C++:** Sei fazer com ajuda;
+- **Programação em blocos:** Sei fazer com autonomia;
+- **Documentação do projeto:** Sei fazer com autonomia;
+- **Montagem do protótipo e circuito eletrônico:** Sei fazer com autonomia.
 
 **Soft-skills:**
 - Empatia;
 - Comunicação;
 - Trabalho em equipe.
 
-### Projeto 2 - 2020-1
+</br>
+</br>
+
+## Projeto 2 - 2020-1
+
+<img src="https://user-images.githubusercontent.com/54003876/138371825-b9c29490-1350-4df2-8a8e-7ea60cec3596.png"/>
+
+##### *Figura 03. FATEC São José dos Campos e SPC Brasil (Fonte: https://github.com/justhenrique/SPC-projeto-integrador)*
 
 **Empresa parceira:** [SPC Brasil](https://www.spcbrasil.org.br/)
 
 **Projeto:** [UDA Brasil](https://github.com/MatheusCampos-450/SPC-projeto-integrador)
 
-A SPC Brasil é uma empresa de tecnologia vinculada com a CNDL (Confederação Nacional de Dirigentes Lojistas). Ela faz o armazenamento e processamento de todas as operações de crédito realizadas por empresas associadas.
-
+A SPC Brasil é uma empresa de tecnologia vinculada com a CNDL (Confederação Nacional de Dirigentes Lojistas). Ela faz o armazenamento e processamento de todas as operações de crédito realizadas por empresas associadas, ou seja, é uma empresa que contém em seu banco de dados informações do comércio de todo o território nacional e, com isso, possui uma base de dados de clientes inadimplentes. Com essa base de dados, o SPC busca auxiliar as empresas na concessão de crédito, trazendo soluções para consumidores e empresários afim de facilitar a realização de negócios.
+Considerando tal fato, a empresa trouxe como proposta de projeto o desenvolvimento de um produto que gere valor a partir dessa base de dados.
 
 **Problema:**
 
@@ -79,4 +88,29 @@ A empresa nos apresentou um problema de escopo aberto, onde precisavamos desenvo
 
 **Solução:**
 
-Entregamos uma aplicação desktop que nomeamos de UDA Brasil (User Data Analytics Brasil). O aplicativo tem como premissa análisar e  
+Entregamos uma aplicação desktop que nomeamos de UDA Brasil (User Data Analytics Brasil). O aplicativo tem como premissa análisar e gerar informações sobre a qualidade da base de dados recebida, filtrando os campos incoerentes que inviabilizem a sua utilização.
+
+![readme_git_ENTREGA6](https://user-images.githubusercontent.com/54003876/87262436-50505c80-c490-11ea-8f8a-9c7288bf25be.png)
+
+##### *Figura 04. UDA Brasil - Descrição da aplicação (Fonte: https://github.com/justhenrique/SPC-projeto-integrador)*
+
+**Tecnologias utilizadas:**
+- **Python:** Linguagem de programação utilizada na aplicação;
+- **Flask:** Framework do Python utilizado para contrução de aplicações web;
+- **Pandas:** Biblioteca do python utilizada para extrair, filtrar, manipular e corrigir os dados;
+- **JavaScript / HTML / CSS:** Usados no desenvolvimento de templates para o front-end;
+
+**Contribuições pessoais:**
+
+Desenvolvimento da API responsável pelo tratamento dos dados e geração de relatórios. Auxiliei em alguns ajustes dos templates do front-end e no desenvolvimento da documentação do projeto.
+
+**Hark-skills:**
+- **Python:** Sei fazer com autonomia;
+- **Flask:** Sei fazer com ajuda;
+- **Pandas:** Sei fazer com autonomia;
+- **JavaScript / HTML / CSS:** Sei fazer com autonomia;
+
+**Soft-skills:**
+- Feedback contante;
+- Comunicação com cliente;
+- Resiliência;
