@@ -56,7 +56,7 @@ Minha contribuição para esse projeto partiu do auxilio na montagem do protóti
 
 **Hard-skills:**
 - **Blynk:** Sei fazer com ajuda;
-- **Linguagem C++:** Sei fazer com ajuda;
+- **Linguagem C++:** Sei fazer com ajuda;d
 - **Programação em blocos:** Sei fazer com autonomia;
 - **Documentação do projeto:** Sei fazer com autonomia;
 - **Montagem do protótipo e circuito eletrônico:** Sei fazer com autonomia.
@@ -114,3 +114,39 @@ Desenvolvimento da API responsável pelo tratamento dos dados e geração de rel
 - Feedback contante;
 - Comunicação com cliente;
 - Resiliência;
+
+</br>
+</br>
+
+## Projeto 3 - 2020-2
+
+![image](https://user-images.githubusercontent.com/56457600/170011966-f4f16056-846f-4577-bad3-f1a344285f6c.png)
+
+##### *Figura 04. Visiona - Tecnologia Espacial (Fonte: https://pqtec.org.br/noticias/gerais/visiona-inicia-operacoes-no-parque-tecnologico-%C2%96-sao-jose-dos-campos/)*
+
+**Empresa parceira:** [Visiona - Tecnologia Espacial](https://www.visionaespacial.com.br/)
+
+**Projeto:** [VisGeo](https://github.com/JDanrley/VisGeo-ETL)
+
+A Visiona é uma empresa com foco na integração de sistemas espaciais que nascer da associação entre a Embraer Defesa & Segurança e a Telebras. Ela é responsável pelo programa SGDC (Satélite Geoestacionário de Defesa e Comunicações Estratégicas) e também pelo VCUB1, o primeiro satélite projetado integralmente pela indústria nacional. Dentre essas conquistas, ela também oferece produtos e serviços de Sensoriamento Remoto e Telecomunicações por satélite.
+
+Devido a essas demandas e para atender a uma necessidade, a empresa propos o desenvolvimento de uma aplicação web ETL (Extract, Transform and Load). Essa aplicação web tem como objetivo extrair dados georreferenciados de arquivos shapefiles (formato de armazenamento de dados vetoriais) e carregar os dados em um banco de dados geográfico, bem como o processo inverso.
+
+**Problema:**
+
+Desenvolver uma aplicação web ETL para extrair dados vetoriais e armazenar em um banco de dados geográfico. Essa aplicação também deve fazer o processo inverso, buscar as informações do banco de dados e gerar os dados vetoriais (shapefiles).
+
+**Solução:**
+
+Visgeo, uma aplicação web ETL de baixo custo capaz de extrair, transformar e carregar dados georreferenciados.
+
+![image](https://user-images.githubusercontent.com/54003876/138375718-784e4a0d-45b2-4f23-8d02-4b4a20f46fb4.png)
+
+##### *Figura 05. VisGeo (Fonte: https://github.com/MatheusCampos-450/VisGeo-ETL)*
+
+**Tecnologias utilizadas:**
+
+![image](https://user-images.githubusercontent.com/54003876/138375967-b76d0f43-8aaf-468d-b286-df7a0fd71d64.png)
+
+##### *Figura 06. VisGeo (Fonte: https://github.com/MatheusCampos-450/VisGeo-ETL)*
+
