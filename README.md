@@ -150,3 +150,20 @@ Visgeo, uma aplicação web ETL de baixo custo capaz de extrair, transformar e c
 
 ##### *Figura 06. VisGeo (Fonte: https://github.com/MatheusCampos-450/VisGeo-ETL)*
 
+**Contribuições pessoais:**
+
+Neste projeto eu foquei no desenvolvimento do front-end, trabalhando com React e Styled-Components, juntamente de bibliotecas como Ant Design e Bootstrap. Auxiliei também no desenvolvimento da documentação do projeto.
+
+**Hark-skills:**
+- **Python:** Sei fazer com autonomia;
+- **Flask:** Sei fazer com ajuda;
+- **ReactJS:** Sei fazer com autonomia;
+- **Styled-components:** Sei fazer com autonomia;
+- **Java:** Sei fazer com ajuda;
+- **Docker:** Sei fazer com ajuda;
+- **PostGis:** Sei fazer com ajuda;
+
+**Soft-skills:**
+- Trabalho em equipe;
+- Proatividade;
+- Resiliência;
