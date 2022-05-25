@@ -167,3 +167,51 @@ Neste projeto eu foquei no desenvolvimento do front-end, trabalhando com React e
 - Trabalho em equipe;
 - Proatividade;
 - Resiliência;
+
+</br>
+</br>
+
+## Projeto 4 - 2021-1
+
+<img src="https://www.iacit.com.br/imgs/meta-image.jpg"/>
+
+##### *Figura 07. Iacit (Fonte: https://www.iacit.com.br/)*
+
+**Empresa parceira:** [Iacit](https://www.spcbrasil.org.br/)
+
+**Projeto:** [Typext](https://github.com/Typext)
+
+A Iacit é uma empresa que tem como objetivo contribuir com a sociedade trazendo autonomia na produção de tecnologia dentro do território nacional. Atualmente ela possui capacitação para desenvolver produtos para seguintes áreas: Auxílio do Controle e do Tráfego Aéreo e Marítimo; Defesa e Segurança Pública; Fábrica de Software; Meteorologia; Pesquisa, Desenvolvimento e Inovação; Telemetria e Agronegócio.
+Devido a alta demanda para desenvolvimento de produtos e soluções tecnológicas para diversas áreas do mercado nacional, a empresa trouxe como desafio o desenvolvimento de uma ferramenta focada na criação e gerenciamento de atas de reunião.
+
+**Problema:**
+
+Desenvolver uma aplicação para o gerenciamento de atas de reunião.
+
+**Solução:**
+
+Typext, uma aplicação web de criação e gerenciamento de atas de reunião.
+
+**Tecnologias utilizadas:**
+
+![image](https://user-images.githubusercontent.com/54003876/142728799-f87fdad3-06a5-4ff3-9518-5c1f80624bd1.png)
+
+##### *Figura 8. Tecnologias Typext (Fonte: https://github.com/Typext)*
+
+**Contribuições pessoais:**
+
+Neste projeto, minha contribuição quase que integralmente focada no desenvolvimento front-end. Utilizando de ReactJS, Styled-Components e TypeScript para o desenvolvimento das telas Login, Cadastro, Tela de Criação de Atas e Tela de alteração das informações do usuário. Auxiliei no desenvolvimento da documentação.
+
+**Hark-skills:**
+- **TypeScript:** Sei fazer com autonomia;
+- **NodeJS:** Sei fazer com ajuda;
+- **ReactJS:** Sei fazer com autonomia;
+- **Styled-Components:** Sei fazer com autonomia;
+- **PostGres:** Sei fazer com ajuda;
+
+**Soft-skills:**
+- Proatividade;
+- Controle emocional;
+- Positividade;
+
+
