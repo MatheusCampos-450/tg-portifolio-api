@@ -192,6 +192,10 @@ Desenvolver uma aplicação para o gerenciamento de atas de reunião.
 
 Typext, uma aplicação web de criação e gerenciamento de atas de reunião.
 
+![typext_cover](https://user-images.githubusercontent.com/56441371/112768034-52dbed80-8ff0-11eb-8a72-5190c56f1090.png)
+
+##### *Figura 8. Typext (Fonte: https://github.com/Typext)*
+
 **Tecnologias utilizadas:**
 
 ![image](https://user-images.githubusercontent.com/54003876/142728799-f87fdad3-06a5-4ff3-9518-5c1f80624bd1.png)
