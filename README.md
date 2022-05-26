@@ -245,9 +245,18 @@ Como solução a esse problema desenvolvemos a Cars-on, um portal de venda de ve
 
 ![thumbnail-github-carson-docs](https://user-images.githubusercontent.com/54003876/133915623-52bc43dd-b6dc-4d95-af48-1c29b7f92ab4.png)
 
+##### *Figura 10. Cars-on (Fonte: https://github.com/Cars-on/Carson-docs)*
+
 **Tecnologias utilizadas:**
 
 ![carson-tecnologias](https://user-images.githubusercontent.com/54003876/133913883-b2548894-17a7-4958-909e-8b110eb760d8.png)
+
+##### *Figura 11. Cars-on - tecnologias utilizadas (Fonte: https://github.com/Cars-on/Carson-docs)*
+
+**Contribuições pessoais:**
+
+
+
 
 
 
