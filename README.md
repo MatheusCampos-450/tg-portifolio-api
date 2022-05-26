@@ -235,5 +235,19 @@ A GSW é uma soft-ware house com reconhecimento internacional no desenvolvimento
 
 Como proposta, a empresa trouxe a seguinte necessidade, o desenvolvimento de uma aplicação que se tornaria uma extensão de um produto já existente. Dentro do cenário apresentado, deveriamos criar um portal de anúncios focado na venda de automóveis. Essa aplicação web deveria atender os seguintes requisítos: gerenciar anuncios e usuários, chat para comunicação entre vendedor e comprador e a possibilidade de carregar dados para dentro da aplicação a partir de um arquivo CSV.
 
+**Problema:**
+
+Desenvolver uma aplicação web (portal para venda de automóveis) que possibilite o gerenciamento de anuncios e usuários, a conversa entre vendedor e comprador a partir de um chat próprio e permita o administrador carregar novas informações para a aplicação a partir de arquivos CSV.
+
+**Solução:**
+
+Como solução a esse problema desenvolvemos a Cars-on, um portal de venda de veículos na que atende a todos os requistos solicitados pelo cliente. Como maior diferencial do produto que desenvolvemos, entregamos uma análise dos dados que são carregados para dentro da aplicação, na qual filtramos e informamos para o usuário quais campos devem ser corrigidos.
+
+![thumbnail-github-carson-docs](https://user-images.githubusercontent.com/54003876/133915623-52bc43dd-b6dc-4d95-af48-1c29b7f92ab4.png)
+
+**Tecnologias utilizadas:**
+
+![carson-tecnologias](https://user-images.githubusercontent.com/54003876/133913883-b2548894-17a7-4958-909e-8b110eb760d8.png)
+
 
 
