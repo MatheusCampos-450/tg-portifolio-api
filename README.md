@@ -229,9 +229,10 @@ Neste projeto, minha contribuição quase que integralmente focada no desenvolvi
 
 **Empresa parceira:** [GSW - Soluções Integradas](https://www.gsw.com.br/)
 
-**Projeto:** [Cars-on](https://github.com/Cars-on
+**Projeto:** [Cars-on](https://github.com/Cars-on)
 
 A GSW é uma soft-ware house com reconhecimento internacional no desenvolvimento de sistemas integrados, sendo eles, soluções de gerenciamento, controle de processos e negócios. O seu objetivo é oferecer soluções em Tecnologia da Informação para trazer melhorias para o dia-a-dia do seu negocio, como redução de custos e o aumento da produtividade.
+
 Como proposta, a empresa trouxe a seguinte necessidade, o desenvolvimento de uma aplicação que se tornaria uma extensão de um produto já existente. Dentro do cenário apresentado, deveriamos criar um portal de anúncios focado na venda de automóveis. Essa aplicação web deveria atender os seguintes requisítos: gerenciar anuncios e usuários, chat para comunicação entre vendedor e comprador e a possibilidade de carregar dados para dentro da aplicação a partir de um arquivo CSV.
 
 
