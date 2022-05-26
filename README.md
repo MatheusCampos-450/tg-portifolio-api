@@ -122,7 +122,7 @@ Desenvolvimento da API responsável pelo tratamento dos dados e geração de rel
 
 ![image](https://user-images.githubusercontent.com/56457600/170011966-f4f16056-846f-4577-bad3-f1a344285f6c.png)
 
-##### *Figura 04. Visiona - Tecnologia Espacial (Fonte: https://pqtec.org.br/noticias/gerais/visiona-inicia-operacoes-no-parque-tecnologico-%C2%96-sao-jose-dos-campos/)*
+##### *Figura 05. Visiona - Tecnologia Espacial (Fonte: https://pqtec.org.br/noticias/gerais/visiona-inicia-operacoes-no-parque-tecnologico-%C2%96-sao-jose-dos-campos/)*
 
 **Empresa parceira:** [Visiona - Tecnologia Espacial](https://www.visionaespacial.com.br/)
 
@@ -142,13 +142,13 @@ Visgeo, uma aplicação web ETL de baixo custo capaz de extrair, transformar e c
 
 ![image](https://user-images.githubusercontent.com/54003876/138375718-784e4a0d-45b2-4f23-8d02-4b4a20f46fb4.png)
 
-##### *Figura 05. VisGeo (Fonte: https://github.com/MatheusCampos-450/VisGeo-ETL)*
+##### *Figura 06. VisGeo (Fonte: https://github.com/MatheusCampos-450/VisGeo-ETL)*
 
 **Tecnologias utilizadas:**
 
 ![image](https://user-images.githubusercontent.com/54003876/138375967-b76d0f43-8aaf-468d-b286-df7a0fd71d64.png)
 
-##### *Figura 06. VisGeo (Fonte: https://github.com/MatheusCampos-450/VisGeo-ETL)*
+##### *Figura 07. VisGeo (Fonte: https://github.com/MatheusCampos-450/VisGeo-ETL)*
 
 **Contribuições pessoais:**
 
@@ -175,7 +175,7 @@ Neste projeto eu foquei no desenvolvimento do front-end, trabalhando com React e
 
 <img src="https://www.iacit.com.br/imgs/meta-image.jpg"/>
 
-##### *Figura 07. Iacit (Fonte: https://www.iacit.com.br/)*
+##### *Figura 08. Iacit (Fonte: https://www.iacit.com.br/)*
 
 **Empresa parceira:** [Iacit](https://www.spcbrasil.org.br/)
 
@@ -194,13 +194,13 @@ Typext, uma aplicação web de criação e gerenciamento de atas de reunião.
 
 ![typext_cover](https://user-images.githubusercontent.com/56441371/112768034-52dbed80-8ff0-11eb-8a72-5190c56f1090.png)
 
-##### *Figura 8. Typext (Fonte: https://github.com/Typext)*
+##### *Figura 9. Typext (Fonte: https://github.com/Typext)*
 
 **Tecnologias utilizadas:**
 
 ![image](https://user-images.githubusercontent.com/54003876/142728799-f87fdad3-06a5-4ff3-9518-5c1f80624bd1.png)
 
-##### *Figura 8. Tecnologias Typext (Fonte: https://github.com/Typext)*
+##### *Figura 10. Tecnologias Typext (Fonte: https://github.com/Typext)*
 
 **Contribuições pessoais:**
 
@@ -225,7 +225,7 @@ Neste projeto, minha contribuição quase que integralmente focada no desenvolvi
 
 ![image](https://user-images.githubusercontent.com/56457600/170472854-01b3bbb1-93b2-4490-914b-f26ab555ae70.png)
 
-##### *Figura 09. GSW - Soluções Integradas (Fonte: https://www.gsw.com.br/)*
+##### *Figura 11. GSW - Soluções Integradas (Fonte: https://www.gsw.com.br/)*
 
 **Empresa parceira:** [GSW - Soluções Integradas](https://www.gsw.com.br/)
 
@@ -245,15 +245,33 @@ Como solução a esse problema desenvolvemos a Cars-on, um portal de venda de ve
 
 ![thumbnail-github-carson-docs](https://user-images.githubusercontent.com/54003876/133915623-52bc43dd-b6dc-4d95-af48-1c29b7f92ab4.png)
 
-##### *Figura 10. Cars-on (Fonte: https://github.com/Cars-on/Carson-docs)*
+##### *Figura 12. Cars-on (Fonte: https://github.com/Cars-on/Carson-docs)*
 
 **Tecnologias utilizadas:**
 
 ![carson-tecnologias](https://user-images.githubusercontent.com/54003876/133913883-b2548894-17a7-4958-909e-8b110eb760d8.png)
 
-##### *Figura 11. Cars-on - tecnologias utilizadas (Fonte: https://github.com/Cars-on/Carson-docs)*
+##### *Figura 13. Cars-on - tecnologias utilizadas (Fonte: https://github.com/Cars-on/Carson-docs)*
 
 **Contribuições pessoais:**
+
+Neste projeto contribui com o desenvolvimento do front-end, mais especificamente no desenvolvimento das seguintes ferramentas: filtragem dos anuncios, chat e realizei também pequenos ajustes nas demais telas da aplicação. Além de participar desenvolvimento, aprimorei minhas experiencias trabalhando como PO (Product Owner), permanecendo sempre em contato com o cliente, procurando feedbacks constantes para o desenvolvimento do nosso produto.
+
+**Hark-skills:**
+- **TypeScript:** Sei fazer com autonomia;
+- **ReactJS:** Sei fazer com autonomia;
+- **NodeJS:** Sei fazer com ajuda;
+- **Styled-Components:** Sei fazer com autonomia;
+- **MongoDB:** Sei fazer com ajuda;
+- **Docker:** Sei fazer com ajuda;
+
+**Soft-skills:**
+- Planejamento;
+- Flexibilidade;
+- Liderança;
+- Ética;
+
+
 
 
 
