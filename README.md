@@ -286,19 +286,44 @@ Neste projeto contribui com o desenvolvimento do front-end, mais especificamente
 
 O Grupo UOL há duas décadas é a maior empresa nacional no ramo de conteúdo, tecnologia, serviços e meios de pagamentos. Somente a sua homepage recebe mais de 114 milhões de visitantes por mês. É uma empresa que está buscando constantemente por inovação para agregar a sua grade de produtos e serviços.
 
+Um importante pilar para os negócios do Grupo UOL é a confiabilidade. Em razão a grande quantidade de acessos que ela recebe nos seus diversos produtos e serviços, existe a necessidade de entregar confiança para o seu cliente, ou seja, disponibilidade de sistemas.
+
+Em virtude dessa necessidade, a UOL trouxe como desafio para os alunos da Fatec São José dos Campos, o desenvolvimento de uma inteligência artificial que realize o monitoramento dos seus sistemas. Ela deve oferecer uma previsibilidade da saúde de suas aplicações, tendo como métrica principal o calcúlo do tempo que resta até a aplicação ficar indisponivel para uso.
 
 **Problema:**
 
-
+Desenvolver uma inteligência artificial monitore a saúde dos sistemas e entregue uma previsibilidade da indisponibilidade do sistema, tendo como métrica o tempo. 
 
 **Solução:**
 
+ResUOLve, uma aplicação que realiza o monitoramento e alerta de sistemas, garantindo a previsibilidade e segurança a cerca da disponibilidade da aplicação. 
+
 ![image](https://user-images.githubusercontent.com/56457600/170574795-fd9d7548-6843-4e6b-a376-9a8d6e33c87f.png)
 
+##### *Figura 15. Logo ResUOLve (Fonte: https://github.com/FatecAPITeam/management-docs)*
 
+**Tecnologias utilizadas:**
 
+![ResUOLve](https://user-images.githubusercontent.com/56457600/170694673-33702135-6920-41d5-b10c-c624b8696060.png)
 
+##### *Figura 16. Tecnologias utilizadas (Fonte: https://github.com/FatecAPITeam/management-docs)*
 
+**Contribuições pessoais:**
 
+Para o desenvolvimento deste projeto, colaborei com o desenvolvimento das documentações acerca da gestão de recursos, atuando bastante no gerenciamento do time. Ademais, contribui com a teste de carga em cima da aplicação alvo e na coleta dos dados para o treinamento da inteligência artificial.
 
+**Hark-skills:**
+- **Spring-boot:** Sei fazer com ajuda;
+- **VueJS:** Sei fazer com autonomia;
+- **k6:** Sei fazer com autonomia;
+- **PostgreSQL:** Sei fazer com ajuda;
+- **Prometheus:** Sei fazer com ajuda;
+- **MongoBD:** Sei fazer com ajuda;
+- **Grafana:** Sei fazer com ajuda;
+- **Python:** Sei fazer com autonomia;
 
+**Soft-skills:**
+- Planejamento;
+- Flexibilidade;
+- Adaptabilidade;
+- Criatividade;
