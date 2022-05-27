@@ -271,6 +271,30 @@ Neste projeto contribui com o desenvolvimento do front-end, mais especificamente
 - Liderança;
 - Ética;
 
+</br>
+</br>
+
+## Projeto 6 - 2022-1
+
+![image](https://user-images.githubusercontent.com/56457600/170574053-02f9ea2d-3920-483d-bef6-5551c7614d4e.png)
+
+##### *Figura 14. UOL (Fonte: https://www.uol.com.br/)*
+
+**Empresa parceira:** [UOL](http://sobreuol.noticias.uol.com.br/historia/)
+ 
+**Projeto:** [ResUOLve](https://github.com/FatecAPITeam)
+
+O Grupo UOL há duas décadas é a maior empresa nacional no ramo de conteúdo, tecnologia, serviços e meios de pagamentos. Somente a sua homepage recebe mais de 114 milhões de visitantes por mês. É uma empresa que está buscando constantemente por inovação para agregar a sua grade de produtos e serviços.
+
+
+**Problema:**
+
+
+
+**Solução:**
+
+![image](https://user-images.githubusercontent.com/56457600/170574795-fd9d7548-6843-4e6b-a376-9a8d6e33c87f.png)
+
 
 
 
