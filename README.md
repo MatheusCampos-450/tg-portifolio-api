@@ -327,3 +327,20 @@ Para o desenvolvimento deste projeto, colaborei com o desenvolvimento das docume
 - Flexibilidade;
 - Adaptabilidade;
 - Criatividade;
+
+</br>
+</br>
+
+## Meus principais conhecimentos:
+- Python;
+- TypeScript;
+- JavaScript;
+- ReactJS;
+- HTML;
+- CSS;
+- Styled-Components;
+- k6;
+
+## Informações para contato:
+- [Linkedin](https://www.linkedin.com/in/matheus-campos-9b8550192/)
+- [Github](https://github.com/MatheusCampos-450)
