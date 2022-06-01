@@ -56,7 +56,7 @@ Minha contribuição para esse projeto partiu do auxilio na montagem do protóti
 
 **Hard-skills:**
 - **Blynk:** Sei fazer com ajuda;
-- **Linguagem C++:** Sei fazer com ajuda;d
+- **Linguagem C++:** Sei fazer com ajuda;
 - **Programação em blocos:** Sei fazer com autonomia;
 - **Documentação do projeto:** Sei fazer com autonomia;
 - **Montagem do protótipo e circuito eletrônico:** Sei fazer com autonomia.
@@ -177,7 +177,7 @@ Neste projeto eu foquei no desenvolvimento do front-end, trabalhando com React e
 
 ##### *Figura 08. Iacit (Fonte: https://www.iacit.com.br/)*
 
-**Empresa parceira:** [Iacit](https://www.spcbrasil.org.br/)
+**Empresa parceira:** [Iacit](https://www.iacit.com.br/)
 
 **Projeto:** [Typext](https://github.com/Typext)
 
@@ -292,7 +292,7 @@ Em virtude dessa necessidade, a UOL trouxe como desafio para os alunos da Fatec 
 
 **Problema:**
 
-Desenvolver uma inteligência artificial monitore a saúde dos sistemas e entregue uma previsibilidade da indisponibilidade do sistema, tendo como métrica o tempo. 
+Desenvolver uma inteligência artificial que monitore a saúde dos sistemas e entregue uma previsibilidade da indisponibilidade do sistema, tendo como métrica o tempo. 
 
 **Solução:**
 
