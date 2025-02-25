@@ -10,6 +10,8 @@ Me chamo Matheus Amauri, tenho 20 anos e sou ingressante da Fatec - Professor Je
 
 Isso me colocou em posição de destaque e logo no 3º período, consegui realizar o meu primeiro estágio como professor de uma escola de programação e robótica, e ao final do 4º período conquistar o meu atual emprego. Hoje atuo como Desenvolvedor ReactJS Junior no time de pagamentos da [Ensinio](https://ensinio.com/).
 
+Dedico todo o meu esforço a minha namorada Ana Clara Santos Kamezawa!
+
 - [Linkedin](https://www.linkedin.com/in/matheus-campos-9b8550192/)
 
 </br>
